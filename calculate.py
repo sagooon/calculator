@@ -1,5 +1,3 @@
-
- 
 import tkinter as tk
 
 LARGE_FONT_STYLE = ("Quicksand", 40, "bold")
@@ -167,3 +165,6 @@ class Calculator:
 if __name__ == "__main__":
     calc = Calculator()
     calc.run()
+   
+  
+  # coded by sagooon: https://github.com/sagooon
