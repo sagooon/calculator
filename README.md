@@ -13,4 +13,4 @@ python3 calculate.py
 ```
 ``` Source Code ```
 
-![source code](https://user-images.githubusercontent.com/74248485/126491693-fbd5331c-fec8-4189-8598-0dc99b098dd5.png)
+![source code](https://user-images.githubusercontent.com/74248485/126496497-4ddfe488-b736-429a-b650-90ee79583b11.png)
