@@ -1,2 +1,3 @@
-# calculator
-Functional Calculator: GUI
+``` Calculator ``` ```GUI Based``` ``` Author: sagooon ``` ```Script: Python```
+
+
